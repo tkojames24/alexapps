@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "lunch-executor",
+    "name": "lunch",
+    "region": "us-east-1"
+  }
+}
